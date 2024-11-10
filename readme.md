@@ -48,8 +48,6 @@ Reference: A. Saxena, K. Goebel, D. Simon, and N. Eklund, “Damage Propagation 
 
 kaggle dataset : https://www.kaggle.com/datasets/behrad3d/nasa-cmaps/code?datasetId=276801
 
-my contribution to this dataset : https://www.kaggle.com/code/yashh2417/c-mapss
 
-linked in profile : https://www.linkedin.com/in/yashh2417?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhPh0aGAOQAODZWyMwpUiow%3D%3D
 
-github link : https://github.com/yashh2417/c-mapss
+linked in profile : https://www.linkedin.com/in/anmol-bansal-814a98260
